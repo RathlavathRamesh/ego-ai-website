@@ -44,14 +44,7 @@ export default function Footer() {
                         </p>
 
                         <div className="mt-6 space-y-3 text-neutral-300">
-                            <p>6301857629</p>
-
-                            <a
-                                href="mailto:rameshrguktbasar@gmail.com"
-                                className="block hover:text-white transition"
-                            >
-                                rameshrguktbasar@gmail.com
-                            </a>
+                            <p>+91 6301857629</p>
                         </div>
                     </div>
 
