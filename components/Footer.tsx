@@ -40,7 +40,7 @@ export default function Footer() {
                         </h4>
 
                         <p className="text-neutral-400 text-sm uppercase tracking-widest mt-2">
-                            CTO & Co-Founder
+                            CO-Founder & CTO
                         </p>
 
                         <div className="mt-6 space-y-3 text-neutral-300">
